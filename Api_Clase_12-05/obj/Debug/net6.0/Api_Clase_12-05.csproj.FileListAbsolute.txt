@@ -1,0 +1,170 @@
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.json
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.exe
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.deps.json
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.runtimeconfig.json
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.pdb
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\scopedcss\bundle\Api_Clase_12-05.styles.css
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CopyComplete
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\refint\Api_Clase_12-05.dll
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.pdb
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Clase 12-05-23\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\ref\Api_Clase_12-05.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.json
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.exe
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.deps.json
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.runtimeconfig.json
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.pdb
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.AssemblyReference.cache
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfoInputs.cache
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfo.cs
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CoreCompileInputs.cache
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\scopedcss\bundle\Api_Clase_12-05.styles.css
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CopyComplete
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\refint\Api_Clase_12-05.dll
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.pdb
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.genruntimeconfig.cache
+C:\Users\Sol Vega\Documents\Facultad\Docencia\TUP\01.06\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\ref\Api_Clase_12-05.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\appsettings.Development.json
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\appsettings.json
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.exe
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.deps.json
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.runtimeconfig.json
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.pdb
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Humanizer.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\MediatR.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.AssemblyReference.cache
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfoInputs.cache
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfo.cs
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CoreCompileInputs.cache
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.Api_Clase_12-05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Clase_12-05.props
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Clase_12-05.props
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Clase_12-05.props
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.build.json
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.development.json
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\scopedcss\bundle\Api_Clase_12-05.styles.css
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CopyComplete
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\refint\Api_Clase_12-05.dll
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.pdb
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.genruntimeconfig.cache
+C:\MisDocs\TUP\Programacion\BackEnd\Clase 01-06 y Ejercicio\Clase_01_06\Api_Clase_12-05\obj\Debug\net6.0\ref\Api_Clase_12-05.dll
